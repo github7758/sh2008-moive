@@ -28,6 +28,7 @@
     background: #fff;
     color: #7a7e83;
     width: 100%;
+    z-index: 100;
 
     ul,li{
         list-style: none;

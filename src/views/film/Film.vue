@@ -10,6 +10,6 @@ import FilmListTopNav from '@/components/FilmListTopNav'
 export default {
     components:{
         FilmListTopNav
-    }
+    },
 }
 </script>
